@@ -47,19 +47,11 @@ The system simulates a real-world gaming store where users can browse games, pur
 
 ## 👨‍💻 Developers
 
-- Waqar Imran (FA24-BCS-112)
-- Fazal Abbas (FA24-BCS-127)
-- Muhammad Uzair (FA24-BCS-085)
-- Zohaib Ahmad (FA24-BCS-121)
-
+- Waqar Imran
+- Fazal Abbas 
+- Muhammad Uzair 
+- Zohaib Ahmad
 ---
-
-## 📷 Future Improvements
-
-- File Handling (Save customer data)
-- GUI Version (using Qt or SFML)
-- Online Store Integration
-- Payment System
 
 ---
 
